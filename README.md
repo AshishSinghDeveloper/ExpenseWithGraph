@@ -15,7 +15,7 @@ This React-based web app allows users to enter their expenses using the provided
 
 ### Add New Expense
 
-![Add Expense](https://user-images.githubusercontent.com/18711592/151718784-9ab33195-31c0-4b1c-bb3c-35d6360e6385.png)
+![Add Expense](https://user-images.githubusercontent.com/18711592/151719043-c912f1bb-2be4-46ca-872f-62c74e48c7ba.png)
 
 
 ### Reference
