@@ -10,7 +10,10 @@ This React-based web app allows users to enter their expenses using the provided
 
 ## Screenshots
 
+### UI
 ![UI](https://user-images.githubusercontent.com/18711592/151718896-3d7fc66b-bbb4-4ed4-a2df-24306131cbc5.png)
+
+### Add New Expense
 
 ![Add Expense](https://user-images.githubusercontent.com/18711592/151718784-9ab33195-31c0-4b1c-bb3c-35d6360e6385.png)
 
